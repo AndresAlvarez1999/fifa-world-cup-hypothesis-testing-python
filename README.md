@@ -54,6 +54,8 @@ Significance Level (α): 0.05
 Result Summary
 p-value: 0.23
 
-**Conclusion:**
+* **Conclusion:**
 
-Since the p-value is greater than the significance level (0.05), we fail to reject the null hypothesis. There is no statistically significant evidence to support that the average goals scored in the FIFA World Cup qualifiers are greater than those scored in the FIFA World Cup.
+**In conclusion, since the p-value is greater than the significance level of 0.05, we fail to reject the null hypothesis. This means there is no statistically significant evidence to suggest that the average number of goals scored in the FIFA World Cup qualifiers is greater than those scored in the FIFA World Cup. While some may have expected a difference, the data shows that both competitions are quite similar in terms of goal-scoring.**
+
+**With no clear advantage in average goals, we’ll leave these games to be watched and appreciated by the most passionate fans, who enjoy the thrill regardless of the scorelines.**
